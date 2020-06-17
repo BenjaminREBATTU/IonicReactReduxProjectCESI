@@ -1,0 +1,7 @@
+{
+  "name": "appIonicProsit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
