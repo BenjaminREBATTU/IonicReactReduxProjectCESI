@@ -45,7 +45,9 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "2.2.0"
+    "@capacitor/cli": "2.2.0",
+    "firebase": "^7.15.1",
+    "redux": "^4.0.5"
   },
   "description": "An Ionic project"
 }
